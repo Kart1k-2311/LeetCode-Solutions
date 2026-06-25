@@ -13,12 +13,14 @@ Progress:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
@@ -29,4 +31,8 @@ Progress:
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
