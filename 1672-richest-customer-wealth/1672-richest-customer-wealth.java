@@ -1,6 +1,6 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-        int ans = 0;
+        int ans = Integer.MIN_VALUE;
         for(int i[]: accounts){
             int sum = 0;
             for(int j : i){
