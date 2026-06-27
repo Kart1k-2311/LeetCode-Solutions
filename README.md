@@ -47,10 +47,12 @@ Progress:
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
