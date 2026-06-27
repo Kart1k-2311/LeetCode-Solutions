@@ -18,6 +18,7 @@ Progress:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
