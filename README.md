@@ -20,6 +20,7 @@ Progress:
 | [0088-merge-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -48,6 +49,7 @@ Progress:
 | ------- |
 | [0015-3sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -78,4 +80,16 @@ Progress:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
