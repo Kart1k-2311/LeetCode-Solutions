@@ -22,6 +22,7 @@ Progress:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -42,6 +43,7 @@ Progress:
 | [0074-search-a-2d-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -53,11 +55,13 @@ Progress:
 | [0015-3sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -65,6 +69,7 @@ Progress:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
@@ -87,6 +92,7 @@ Progress:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
