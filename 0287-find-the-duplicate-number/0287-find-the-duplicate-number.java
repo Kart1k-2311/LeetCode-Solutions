@@ -1,23 +1,22 @@
 class Solution {
-    public int findDuplicate(int[] nums) {
+    public int findDuplicate(int[] arr) {
         int i = 0;
-        int right = 0;
-        while(i < nums.length){
-            right = nums[i] - 1;
-            if(nums[right]!=nums[i]){
-                swapp(nums, right, i);
-            } else{
+        while (i < arr.length) {
+
+            if (arr[i] != i + 1) {
+                int correct = arr[i] - 1;
+                if (arr[i] != arr[correct]) {
+                    swap(arr, i , correct);
+                } else {
+                    return arr[i];
+                }
+            } else {
                 i++;
-            }
-        }
-        for(int j = 0;j<nums.length;j++){
-            if(nums[j]!=j+1){
-               return nums[j];
             }
         }
         return -1;
     }
-    void swapp(int[] nums, int first,int last){
+    void swap(int[] nums, int first,int last){
         int temp = nums[first];
         nums[first]=nums[last];
         nums[last] = temp;
