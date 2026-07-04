@@ -63,6 +63,7 @@ Progress:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
@@ -87,6 +88,7 @@ Progress:
 | ------- |
 | [0009-palindrome-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
