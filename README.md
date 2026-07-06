@@ -40,6 +40,7 @@ Progress:
 | [1480-running-sum-of-1d-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -114,6 +115,7 @@ Progress:
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
 |  |
 | ------- |
