@@ -58,6 +58,7 @@ Progress:
 | [0680-valid-palindrome-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Progress:
 | [1108-defanging-an-ip-address](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1768-merge-strings-alternately](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
