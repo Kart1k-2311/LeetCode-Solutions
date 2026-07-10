@@ -54,6 +54,7 @@ Progress:
 | [0088-merge-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ Progress:
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -135,6 +137,7 @@ Progress:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
