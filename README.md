@@ -29,6 +29,7 @@ Progress:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -78,6 +79,7 @@ Progress:
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -132,6 +134,7 @@ Progress:
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
