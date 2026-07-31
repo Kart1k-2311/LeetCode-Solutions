@@ -13,6 +13,7 @@ Progress:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -51,6 +52,7 @@ Progress:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -171,5 +173,6 @@ Progress:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
