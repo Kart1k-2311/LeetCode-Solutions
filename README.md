@@ -14,6 +14,7 @@ Progress:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -124,6 +125,7 @@ Progress:
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -175,4 +177,8 @@ Progress:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
