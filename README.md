@@ -108,6 +108,7 @@ Progress:
 | ------- |
 | [0009-palindrome-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -120,6 +121,7 @@ Progress:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -196,5 +198,6 @@ Progress:
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
