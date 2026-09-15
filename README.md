@@ -74,6 +74,7 @@ Progress:
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -108,6 +109,7 @@ Progress:
 | ------- |
 | [0009-palindrome-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -200,4 +202,8 @@ Progress:
 | ------- |
 | [0231-power-of-two](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
