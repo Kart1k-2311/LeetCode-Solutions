@@ -118,6 +118,7 @@ Progress:
 | [0367-valid-perfect-square](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
