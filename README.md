@@ -35,6 +35,7 @@ Progress:
 | [0832-flipping-an-image](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -87,6 +88,7 @@ Progress:
 | [0367-valid-perfect-square](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
