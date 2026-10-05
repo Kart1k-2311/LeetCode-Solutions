@@ -57,6 +57,7 @@ Progress:
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1920-build-array-from-permutation](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -100,6 +101,7 @@ Progress:
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
 |  |
 | ------- |
