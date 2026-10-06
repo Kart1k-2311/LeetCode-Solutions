@@ -48,6 +48,7 @@ Progress:
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -99,6 +100,7 @@ Progress:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
