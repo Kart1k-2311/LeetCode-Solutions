@@ -146,6 +146,7 @@ Progress:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
