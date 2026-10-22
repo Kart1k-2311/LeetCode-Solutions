@@ -63,6 +63,7 @@ Progress:
 | [1929-concatenation-of-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -214,6 +215,7 @@ Progress:
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Progress:
 | [0643-maximum-average-subarray-i](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Queue
 |  |
