@@ -177,6 +177,7 @@ Progress:
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -208,6 +209,7 @@ Progress:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -264,6 +266,7 @@ Progress:
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
