@@ -1,40 +1,34 @@
 class Solution {
     public int[] decrypt(int[] code, int k) {
         int n = code.length;
-        int[] result = new int[n];
+        int nums[] = new int[n];
+        if (k == 0)
+            return nums;
 
-        if (k == 0) return result;
-
-        int windowEnd = 0, windowStart = 0, windowSum = 0;
+        int start = 0, end = 0, sum = 0;
 
         if (k > 0) {
             for (int i = 1; i <= k; i++) {
-                windowSum += code[i % n];
+                sum += code[i % n];
             }
-
-            result[0] = windowSum;
-
-            for (windowEnd = 1; windowEnd < n; windowEnd += 1) {
-                windowSum -= code[windowEnd % n];
-                windowSum += code[(windowEnd + k) % n];
-                result[windowEnd] = windowSum;
+            nums[0] = sum;
+            for (end = 1; end < n; end++) {
+                sum -= code[end % n];
+                sum += code[(end + k) % n];
+                nums[end] = sum;
             }
         } else {
             k = -k;
-
             for (int i = 1; i <= k; i++) {
-                windowSum += code[(n - i) % n];
+                sum += code[(n - i) % n];
             }
-
-            result[0] = windowSum;
-
-            for (windowEnd = 1; windowEnd < n; windowEnd += 1) {
-                windowSum += code[(windowEnd - 1 + n) % n];
-                windowSum -= code[(windowEnd - (k + 1) + n) % n];
-                result[windowEnd] = windowSum;
+            nums[0] = sum;
+            for (end = 1; end < n; end += 1) {
+                sum += code[(end - 1 + n) % n];
+                sum -= code[(end - (k + 1) + n) % n];
+                nums[end] = sum;
             }
         }
-
-        return result;
+        return nums;
     }
 }
