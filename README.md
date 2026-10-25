@@ -66,6 +66,7 @@ Progress:
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -135,6 +136,7 @@ Progress:
 | [1200-minimum-absolute-difference](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2747-count-zero-request-servers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Progress:
 | [1512-number-of-good-pairs](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2747-count-zero-request-servers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +278,7 @@ Progress:
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Queue
 |  |
 | ------- |
