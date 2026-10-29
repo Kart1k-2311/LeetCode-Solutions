@@ -43,6 +43,7 @@ Progress:
 | [0867-transpose-matrix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -88,6 +89,7 @@ Progress:
 | [0680-valid-palindrome-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -294,4 +296,8 @@ Progress:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
