@@ -260,6 +260,7 @@ Progress:
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -300,4 +301,8 @@ Progress:
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
