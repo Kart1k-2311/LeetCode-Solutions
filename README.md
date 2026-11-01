@@ -148,6 +148,7 @@ Progress:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -261,6 +262,7 @@ Progress:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -305,6 +307,7 @@ Progress:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
