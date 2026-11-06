@@ -84,6 +84,7 @@ Progress:
 | [0075-sort-colors](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -265,6 +266,7 @@ Progress:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -313,8 +315,13 @@ Progress:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
