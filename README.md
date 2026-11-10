@@ -168,6 +168,7 @@ Progress:
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -206,6 +207,7 @@ Progress:
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Progress:
 | [1652-defuse-the-bomb](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2747-count-zero-request-servers](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Queue
