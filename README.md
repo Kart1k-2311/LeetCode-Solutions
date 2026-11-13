@@ -121,6 +121,7 @@ Progress:
 | [0875-koko-eating-bananas](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -190,6 +191,7 @@ Progress:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -206,6 +208,7 @@ Progress:
 | [0657-robot-return-to-origin](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -303,6 +306,7 @@ Progress:
 | [0209-minimum-size-subarray-sum](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
