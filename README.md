@@ -88,6 +88,7 @@ Progress:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -341,6 +342,7 @@ Progress:
 | [0021-merge-two-sorted-lists](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
