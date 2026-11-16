@@ -91,6 +91,7 @@ Progress:
 | [0086-partition-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -148,6 +149,7 @@ Progress:
 | [0056-merge-intervals](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -257,6 +259,7 @@ Progress:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -344,6 +347,7 @@ Progress:
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
@@ -353,4 +357,8 @@ Progress:
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
