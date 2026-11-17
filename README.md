@@ -208,6 +208,7 @@ Progress:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -356,9 +357,14 @@ Progress:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
