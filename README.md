@@ -218,6 +218,7 @@ Progress:
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -362,6 +363,7 @@ Progress:
 | [0020-valid-parentheses](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kart1k-2311/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
